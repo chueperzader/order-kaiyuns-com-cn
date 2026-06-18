@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chueperzader.github.io/order-kaiyuns-com-cn/sitemap.xml
